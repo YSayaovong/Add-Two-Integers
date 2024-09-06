@@ -6,15 +6,6 @@ This repository contains a solution to the LeetCode problem ["Add Two Integers"]
 
 You are given two integers, `num1` and `num2`. The task is to return the sum of `num1` and `num2`.
 
-### Example 1:
-
-```plaintext
-Input: num1 = 12, num2 = 5
-Output: 17
-
-Input: num1 = -10, num2 = 4
-Output: -6
-
 ## Constraints:
 -100 <= num1, num2 <= 100
 Approach
