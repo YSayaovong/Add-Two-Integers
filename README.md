@@ -15,8 +15,6 @@ You are given two integers, `num1` and `num2`. The task is to return the sum of 
 This is a straightforward problem that requires adding two integers and returning their sum. We will write a simple function that takes two integer inputs, performs the addition, and returns the result.
 
 ### Example 1:
-
-```plaintext
 Input: num1 = 12, num2 = 5
 Output: 17
 
